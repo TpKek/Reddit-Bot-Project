@@ -9,3 +9,6 @@ It also looks for specific words in each comment on a subreddit post and replies
 Bot in action:
 
 ![RBot](https://user-images.githubusercontent.com/92753848/137928905-d5ff291b-6680-4a26-8ba9-ed5da5e64851.PNG)
+
+Link to the Subreddit:
+https://www.reddit.com/r/RBotProject/comments/qba55l/i_hope_this_works/
