@@ -1,5 +1,8 @@
 # Reddit Bot Project
  My first mini-project
+ \
+ READ THE RULES ON BOTS FOR REDDIT:
+ https://www.reddit.com/wiki/bottiquette
  
  I used the PRAW (Python Reddit API Wrapper) available on https://praw.readthedocs.io/en/stable/getting_started/quick_start.html
  
