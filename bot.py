@@ -20,7 +20,7 @@ for submission in subreddit.hot(limit=10):
     #print post score(upvotes - downvotes)
     print("Score: ", submission.score)
 
-    #loop through all comments in a submission and look for the word Google
+    #loop through all comments in a submission and look for the word "test"
     for comment in submission.comments:
         #making sure all the words in the comment is lowercase
         comment_lower = comment.body.lower()
